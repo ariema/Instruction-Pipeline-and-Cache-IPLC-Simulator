@@ -1,3 +1,3 @@
-# Pipeline-and-Cache-Project by Allison Ariemma
+# Pipeline and Cache Simulation by Allison Ariemma
 Contributors:
   Allison Ariemma and Alec Bernardi
